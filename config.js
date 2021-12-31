@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `tại vì em ở xa nên hok làm gì đc
     nên em làm cái này tặng cho chị
     đừng có chê nhaaa
-   chê là giận đóoooooo`,
+    chê là giận đó`,
     btnIntro: 'hihi',
     title: 'thấy em kute khonggg 😙',
     desc: 'màu xanh là có mảu đỏ là không ',
@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'năm mới chúc chị zz, tìm đc một người xứn đán với chị',
     mess: 'không đc khóc không được buồnnnn',
     messDesc: 'đặc biệt là earn more money honnwww hehe',
-    btnAccept: 'nhớ nhaa!!!!!',
+    btnAccept: 'nhớ phải làm được nhaa',
     messLink: 'https://www.facebook.com/linhxinkdeppppp/
 }
